@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="110" fill="#fce4ec"/>
+  <g fill="#d81b60">
+    <path d="M256 150c-26 0-47 21-47 47 0 44 47 92 47 92s47-48 47-92c0-26-21-47-47-47zm0 150c-70-70-110-120-110-175 0-55 44-99 99-99 24 0 46 9 63 23 17-14 39-23 63-23 55 0 99 44 99 99 0 55-40 105-110 175l-52 52-52-52z" transform="scale(0.7) translate(110 60)"/>
+  </g>
+  <text x="256" y="420" font-family="Segoe UI, sans-serif" font-size="70" font-weight="800" fill="#a01247" text-anchor="middle">MAMMOVIE</text>
+</svg>
